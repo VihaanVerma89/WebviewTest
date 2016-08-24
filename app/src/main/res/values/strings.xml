@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebviewTest</string>
+    <string name="url">https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&amp;token=EC-0FF03678LB255201R&amp;useraction=commit#/checkout/guest</string>
+    <!--<string name="url">https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&amp;token=EC-8T798771NP307834W&amp;useraction=commit#/checkout/guest</string>-->
+</resources>
